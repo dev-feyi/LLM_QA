@@ -1,4 +1,4 @@
 Name: ADELEKE OLUWAFEYISIKEMI NANCY
 Matric number: 22CG031807
-Live URL of hosted application: 
+Live URL of hosted application: https://assignment-lac-alpha-81.vercel.app/
 GitHub repository link: 
